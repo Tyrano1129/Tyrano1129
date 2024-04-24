@@ -18,9 +18,8 @@
 ---
 
 ### 참여 프로젝트 
-1. [개인프로젝트 오목게임](https://github.com/Tyrano1129/Omok)
-2. [팀 영화예매프로젝트](https://github.com/SJL0616/MovieProject)
-3. [팀 더조은 게임즈](https://github.com/Tyrano1129/GameSaleProject)
+1. [팀 영화예매프로젝트](https://github.com/SJL0616/MovieProject)
+2. [팀 더조은 게임즈](https://github.com/Tyrano1129/GameSaleProject)
 
 ---
 
