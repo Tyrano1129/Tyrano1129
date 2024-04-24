@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/01.jpg?raw=true" width="100"/>
+<img align="center" src="https://github.com/Tyrano1129/Tyrano1129/blob/3e184fa4aef4a9ee7dee1e4e09a6ef3963f4bd83/upload/%EB%B0%98%EB%AA%85%ED%95%A8.jpg?raw=true" width="100"/>
 <br>
 
 ### 나를 소개하는 한 문장 
