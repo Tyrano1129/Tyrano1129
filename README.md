@@ -18,7 +18,7 @@
 ---
 
 ### 참여 프로젝트 
-1. [개인프로젝트 java rpg게임](https://github.com/Tyrano1129/Kimjinsu_Project)
+1. [개인프로젝트 오목게임](https://github.com/Tyrano1129/Kimjinsu_Project)
 2. [팀 영화예매프로젝트](https://github.com/SJL0616/MovieProject)
 3. [팀 더조은 게임즈](https://github.com/Tyrano1129/GameSaleProject)
 
