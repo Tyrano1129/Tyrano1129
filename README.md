@@ -18,10 +18,10 @@
 ---
 
 ### 참여 프로젝트 
-1. [프로젝트명1 ](https://yeonmitc.github.io/)
-2. [프로젝트명2](about:blank)
-3. [프로젝트명3](about:blank)
-4. [프로젝트명4](배포링크)
+1. [개인프로젝트 java rpg게임](https://yeonmitc.github.io/](https://github.com/Tyrano1129/Kimjinsu_Project))
+2. [개인프로젝트 오목]((https://github.com/Tyrano1129/Omok))
+3. [영화예매프로젝트]((https://github.com/SJL0616/MovieProject))
+4. [더조은 게임즈](https://github.com/Tyrano1129/GameSaleProject)
 
 ---
 
