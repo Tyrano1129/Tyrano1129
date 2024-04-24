@@ -18,8 +18,9 @@
 ---
 
 ### 참여 프로젝트 
-1. [팀 영화예매프로젝트](https://github.com/SJL0616/MovieProject)
-2. [팀 더조은 게임즈](https://github.com/Tyrano1129/GameSaleProject)
+1. [팀 더조은 게임즈](https://www.notion.so/e5b9b3b048104d71880d2cf50aff2949)
+2. [팀 영화예매프로젝트](https://www.notion.so/4-kobis-ba174932b1ee40b79bddb9a47d35ba67)
+3. [랜트카](https://www.notion.so/Rantcar-c9bf016575a149f3a30b934215b0d83f)
 
 ---
 
