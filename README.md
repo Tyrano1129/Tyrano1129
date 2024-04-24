@@ -35,20 +35,20 @@
   <tbody>
     <tr>
       <td>
-<!--         <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트1"> -->
-<!--           <img align="center" src="https://github.com/yeonmitc/yeonmitc/assets/82494535/9730f131-3bc9-4543-9260-360bb960fec4" width="300px" > -->
+        <a href="https://youtu.be/QXYB2vH2ezU" title="더조은 게임즈">
+          <img align="center" src="https://github.com/Tyrano1129/tyrano1129.github.io/blob/b79ecf1301c9f008bb5c56413cee2fa81ab7a7d8/resources/images/%EB%8D%94%EC%A1%B0%EC%9D%80%20%EA%B2%8C%EC%9E%84%EC%A6%88.gif" width="300px" >
         </a>
       </td>
       <td>
-<!--       <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트2"> -->
-<!--           <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" > -->
+      <a href="https://youtu.be/StSwwFNsDIE" title="프로젝트2">
+          <img align="center" src="https://github.com/Tyrano1129/tyrano1129.github.io/blob/b79ecf1301c9f008bb5c56413cee2fa81ab7a7d8/resources/images/%EC%98%81%ED%99%94%20%EC%98%88%EB%A7%A4.gif" width="300px" >
         </a>
       </td>
-      <td>
-<!--        <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트3"> -->
-<!--           <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" > -->
+<!--       <td>
+       <a href="https://www.youtube.com/본인프로젝트시연유트브" title="프로젝트3">
+          <img align="center" src="https://github.com/yeonmitc/yeonmitc/blob/main/upload/profile.PNG?raw=true" width="300px" >
         </a>
-      </td>
+      </td> -->
     </tr>
   </tbody>
 </table>
