@@ -17,15 +17,6 @@
 2. [팀 영화예매프로젝트](https://gorgeous-blinker-6f2.notion.site/4-kobis-ba174932b1ee40b79bddb9a47d35ba67?pvs=4)
 3. [랜트카](https://gorgeous-blinker-6f2.notion.site/Rantcar-c9bf016575a149f3a30b934215b0d83f?pvs=4)
 
----
-
-### 보유 기술 
-
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Java](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![MySQL](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white)
 
 <br>
 
