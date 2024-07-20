@@ -15,9 +15,9 @@
 ---
 
 ### 참여 프로젝트 
-1. [팀 더조은 게임즈](https://gorgeous-blinker-6f2.notion.site/e5b9b3b048104d71880d2cf50aff2949?pvs=4)
-2. [팀 영화예매프로젝트](https://gorgeous-blinker-6f2.notion.site/4-kobis-ba174932b1ee40b79bddb9a47d35ba67?pvs=4)
-3. [랜트카](https://gorgeous-blinker-6f2.notion.site/Rantcar-c9bf016575a149f3a30b934215b0d83f?pvs=4)
+1. [팀 더조은 게임즈](https://github.com/Tyrano1129/GameSaleProject.git)
+2. [팀 영화예매프로젝트](https://github.com/SJL0616/MovieProject.git)
+3. [랜트카](https://github.com/Tyrano1129/RantcarProject.git)
 
 
 <br>
